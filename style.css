@@ -142,11 +142,3 @@
     padding: 10px;
 }
 
-.footer ul {
-    display: flex;
-    gap: 5px;
-}
-
-.footer ul li {
-    list-style-type: none;
-}
