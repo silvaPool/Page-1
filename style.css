@@ -13,13 +13,13 @@
     padding: 5px;
 }
 
-.header .box-header .navegacao ul {
+.header .box-header .navegation ul {
     display: flex;
     gap: 10px;
     list-style-type: none;
 }
 
-.header .box-header .navegacao ul li a {
+.header .box-header .navegation ul li a {
     text-decoration: none;
     color: black;
 }
